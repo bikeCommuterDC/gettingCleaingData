@@ -1,4 +1,4 @@
-# Read Me for run_analysis.R
+# README for run_analysis.R
 
 ## Setup
 
